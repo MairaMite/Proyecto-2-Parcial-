@@ -25,6 +25,15 @@ El proyecto sigue una arquitectura organizada en capas para separar las responsa
 ├── PlataformaReservas.sql            # Script SQL para la creación de la base de datos y tabla
 └── README.md                         # Archivo de documentación del proyecto
 
+## Imagen de la interfaz
+<img width="783" height="620" alt="image" src="https://github.com/user-attachments/assets/7e6f1674-ce70-41df-9c66-5c4503154e7d" />
+<img width="779" height="630" alt="image" src="https://github.com/user-attachments/assets/256697f9-73c1-4415-ae64-46fa0fb1ec7a" />
+
+## Sql registro
+<img width="1904" height="991" alt="image" src="https://github.com/user-attachments/assets/ec59f1f5-0421-4489-b595-d8b5d7595731" />
+
+
+
 
 ##  ⚙️ Requisitos del Sistema
 
@@ -83,7 +92,7 @@ _PASSWORD: Tu contraseña para el usuario de la base de datos.
 
 DRIVER: Asegúrate de que el nombre del controlador ODBC coincida con el que tienes instalado. Por ejemplo, ODBC Driver 18 for SQL Server.
 
-<img width="1910" height="999" alt="image" src="https://github.com/user-attachments/assets/49c8b041-2018-4224-832c-e4f5ed632f49" />
+
 
 
 Python
@@ -135,7 +144,7 @@ Validación de Datos: Incluye validaciones para asegurar la integridad de los da
 
 Manejo de Mensajes: Muestra mensajes informativos, de advertencia o de error al usuario.
 
-<img width="792" height="620" alt="image" src="https://github.com/user-attachments/assets/1a3f6e2d-86bc-47f1-8058-c9ed7f204ba1" />
+
 
 ## Validaciones Específicas:
 Nombre: Obligatorio y con un mínimo de 3 caracteres. No permite nombres duplicados.
